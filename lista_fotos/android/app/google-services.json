@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "650806095720",
+    "firebase_url": "https://pede-menu-desafio.firebaseio.com",
+    "project_id": "pede-menu-desafio",
+    "storage_bucket": "pede-menu-desafio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650806095720:android:e0708d6775c7515cf970dd",
+        "android_client_info": {
+          "package_name": "com.example.lista_fotos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650806095720-ttq2saj4qnvfodb33a3gmujnvnmb532l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lista_fotos",
+            "certificate_hash": "cea828d830ac0378c39d8f224419613ee38d260e"
+          }
+        },
+        {
+          "client_id": "650806095720-oopd461cnpb8335582715ttoug43lpbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpIRZEkxsB4Y335zskPB36eWG281brqNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650806095720-oopd461cnpb8335582715ttoug43lpbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
